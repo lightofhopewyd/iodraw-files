@@ -8,7 +8,7 @@
           <mxGeometry x="620" y="450" width="201" height="67" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-3" value="Light Sensor" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="118" height="49" as="geometry" />
+          <mxGeometry x="340" y="468" width="118" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-4" value="Voice Module" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="468" y="590" width="125" height="49" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-7" value="OLED Display" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1049" y="590" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jySt3nAPZ9_6BD68KY1Z-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.42;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="602" />
