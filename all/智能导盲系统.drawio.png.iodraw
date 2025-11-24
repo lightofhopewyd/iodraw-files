@@ -4,6 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="EVqEYGYp7_KAJlyAkmLA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EVqEYGYp7_KAJlyAkmLA-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EVqEYGYp7_KAJlyAkmLA-0" value="智能导盲系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="510" width="830" height="271" as="geometry" />
         </mxCell>
@@ -25,6 +30,7 @@
         <mxCell id="EVqEYGYp7_KAJlyAkmLA-6" value="信息播报" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="EVqEYGYp7_KAJlyAkmLA-0" source="EVqEYGYp7_KAJlyAkmLA-1" target="EVqEYGYp7_KAJlyAkmLA-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="300" y="70" />
               <mxPoint x="106" y="144" />
             </Array>
           </mxGeometry>
