@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jySt3nAPZ9_6BD68KY1Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="170" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-2" value="STM32F103VET6 Development Board" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="450" width="201" height="67" as="geometry" />
         </mxCell>
