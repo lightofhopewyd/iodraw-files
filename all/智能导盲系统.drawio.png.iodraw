@@ -27,7 +27,7 @@
           <mxGeometry x="643.5" y="710" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-6" value="MPU6050 Module" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="820" y="661" width="151" height="49" as="geometry" />
+          <mxGeometry x="646.5" y="260" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-7" value="OLED Display" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1049" y="590" width="124" height="49" as="geometry" />
@@ -46,13 +46,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jySt3nAPZ9_6BD68KY1Z-16" value="I2C" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=-0.01;entryX=1;entryY=0.87;rounded=0;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-6" target="jySt3nAPZ9_6BD68KY1Z-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1000" y="553" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-17" value="I2C" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=-0.01;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-7" target="jySt3nAPZ9_6BD68KY1Z-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -67,6 +60,9 @@
           <mxGeometry x="-0.0092" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.149;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-6" target="jySt3nAPZ9_6BD68KY1Z-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
