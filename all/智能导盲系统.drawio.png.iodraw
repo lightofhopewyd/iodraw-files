@@ -26,11 +26,11 @@
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-5" value="超声波模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="643.5" y="710" width="154" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jySt3nAPZ9_6BD68KY1Z-6" value="MPU6050 Module" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-6" value="MPU6050" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="646.5" y="260" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-7" value="OLED Display" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1049" y="590" width="124" height="49" as="geometry" />
+          <mxGeometry x="1070" y="450" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.25;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-2" target="jySt3nAPZ9_6BD68KY1Z-7">
           <mxGeometry relative="1" as="geometry">
@@ -63,6 +63,11 @@
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.149;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-6" target="jySt3nAPZ9_6BD68KY1Z-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-23" value="I2C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jySt3nAPZ9_6BD68KY1Z-22">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
