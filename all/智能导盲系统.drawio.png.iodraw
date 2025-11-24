@@ -1,55 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+  <diagram name="第 1 页" id="RsQSolJrjwSsuHwLA-6K">
     <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-0" value="智能导盲系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="460" width="930" height="361" as="geometry" />
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-1" value="主控芯片(SM32)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EVqEYGYp7_KAJlyAkmLA-0">
-          <mxGeometry x="384.32530120481925" y="61.276752767527675" width="192.72289156626505" height="65.2730627306273" as="geometry" />
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-2" value="语音模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EVqEYGYp7_KAJlyAkmLA-0">
-          <mxGeometry x="22.409638554216865" y="93.24723247232473" width="140.06024096385542" height="65.2730627306273" as="geometry" />
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-3" value="MPU6050(姿态检测)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EVqEYGYp7_KAJlyAkmLA-0">
-          <mxGeometry x="244.26506024096383" y="257.0959409594096" width="225.2168674698795" height="65.2730627306273" as="geometry" />
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-4" value="超声波测距" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EVqEYGYp7_KAJlyAkmLA-0">
-          <mxGeometry x="525.5060240963855" y="257.0959409594096" width="159.10843373493975" height="65.2730627306273" as="geometry" />
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-5" value="光敏传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EVqEYGYp7_KAJlyAkmLA-0">
-          <mxGeometry x="740.6385542168674" y="257.0959409594096" width="159.10843373493975" height="65.2730627306273" as="geometry" />
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-6" value="信息播报" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="EVqEYGYp7_KAJlyAkmLA-0" source="EVqEYGYp7_KAJlyAkmLA-1" target="EVqEYGYp7_KAJlyAkmLA-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="336.144578313253" y="93.24723247232473" />
-              <mxPoint x="118.7710843373494" y="191.8228782287823" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-7" value="姿态数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="EVqEYGYp7_KAJlyAkmLA-0" source="EVqEYGYp7_KAJlyAkmLA-1" target="EVqEYGYp7_KAJlyAkmLA-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="357.433734939759" y="191.8228782287823" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-8" value="距离数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="EVqEYGYp7_KAJlyAkmLA-0" source="EVqEYGYp7_KAJlyAkmLA-1" target="EVqEYGYp7_KAJlyAkmLA-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="605.0602409638553" y="191.8228782287823" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EVqEYGYp7_KAJlyAkmLA-9" value="光照数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="EVqEYGYp7_KAJlyAkmLA-0" source="EVqEYGYp7_KAJlyAkmLA-1" target="EVqEYGYp7_KAJlyAkmLA-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="820.1927710843373" y="191.8228782287823" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
