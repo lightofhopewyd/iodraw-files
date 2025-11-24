@@ -13,6 +13,16 @@
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-4" value="语音模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="458" y="680" width="125" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jySt3nAPZ9_6BD68KY1Z-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-21" value="GPIO/定时器中断&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jySt3nAPZ9_6BD68KY1Z-20">
+          <mxGeometry x="0.0392" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-5" value="超声波模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="643.5" y="710" width="154" height="49" as="geometry" />
         </mxCell>
