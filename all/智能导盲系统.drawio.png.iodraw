@@ -10,10 +10,10 @@
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-3" value="Light Sensor" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="340" y="468" width="118" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jySt3nAPZ9_6BD68KY1Z-4" value="Voice Module" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-4" value="语音模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="458" y="680" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jySt3nAPZ9_6BD68KY1Z-5" value="Ultrasonic Sensor" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jySt3nAPZ9_6BD68KY1Z-5" value="超声波模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="643.5" y="710" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jySt3nAPZ9_6BD68KY1Z-6" value="MPU6050 Module" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
