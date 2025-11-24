@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="EVqEYGYp7_KAJlyAkmLA-0" value="智能导盲系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="520" width="830" height="271" as="geometry" />
+          <mxGeometry x="120" y="510" width="830" height="271" as="geometry" />
         </mxCell>
         <mxCell id="EVqEYGYp7_KAJlyAkmLA-1" value="主控芯片(SM32)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EVqEYGYp7_KAJlyAkmLA-0">
           <mxGeometry x="343" y="46" width="172" height="49" as="geometry" />
